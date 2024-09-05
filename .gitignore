@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Instagram session file
+instagram_session.json
+
+# Uploaded images folder
+uploaded/
+
+# Upload folder (if you want to ignore the input folder as well)
+upload/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+insta_env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files (if you implement logging to a file in the future)
+*.log
