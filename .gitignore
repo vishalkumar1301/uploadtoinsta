@@ -25,3 +25,14 @@ Thumbs.db
 
 # Log files (if you implement logging to a file in the future)
 *.log
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Logs
+logs
+*.log
+npm-debug.log*node_modules/
+upload/
+.env
